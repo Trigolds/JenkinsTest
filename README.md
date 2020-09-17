@@ -1,2 +1,2 @@
-# Taichi
-Taichi projects of Trigolds
+# Jenkins
+Jenkins tests of Trigolds
